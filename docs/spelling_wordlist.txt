@@ -122,6 +122,7 @@ parsers
 Parsers
 PEM
 PHC
+PiB
 pickleable
 plaintext
 Poly
