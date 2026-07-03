@@ -44,6 +44,7 @@ decrypt
 decrypts
 Decrypts
 decrypted
+Decrypter
 decrypting
 deprecations
 DER
@@ -60,6 +61,7 @@ duplicative
 El
 embeddability
 Encodings
+Encrypter
 endian
 Euler
 extendable

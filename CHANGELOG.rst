@@ -8,6 +8,10 @@ Changelog
 
 .. note:: This version is not yet released and is under active development.
 
+* Added the :doc:`/chunked-encryption` recipe, an implementation of the
+  `C2SP chunked-encryption specification
+  <https://c2sp.org/chunked-encryption>`_ for streaming authenticated
+  encryption of large messages.
 * Parsing a Signed Certificate Timestamp list now rejects encodings that
   carry trailing bytes after the list or after an individual SCT, instead of
   silently ignoring them.
